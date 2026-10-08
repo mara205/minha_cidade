@@ -1,5 +1,6 @@
 body{
-    width: 100vw;
+    width: auto;
+    height: auto;
     background: linear-gradient(to right, rgb(67, 67, 161), rgb(153, 43, 43));
 }
 
